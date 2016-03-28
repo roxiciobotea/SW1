@@ -1,0 +1,16 @@
+﻿ body form > textarea {
+     background-color: palevioletred;
+ }
+
+ body {
+     background-color: deepskyblue;
+ }
+
+ #r4 {
+     margin: 100px;
+ }
+
+ #name {
+     padding: 100px;
+     background-color: lightyellow;
+ }
